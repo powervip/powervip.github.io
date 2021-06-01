@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 欢迎来到powervip的博客
 
-You can use the [editor on GitHub](https://github.com/powervip/powervip.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我的知乎:[https://www.zhihu.com/people/powervip](https://www.zhihu.com/people/powervip) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我的CSDN:[https://blog.csdn.net/powervip](https://blog.csdn.net/powervip) 
 
-### Markdown
+我的腾讯微云网盘:[https://share.weiyun.com/5qT0TvG](https://share.weiyun.com/5qT0TvG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<br><br>
+### 文章列表：
 
-- Bulleted
-- List
+[区块链实现的去中心化究竟是为了追求什么](https://zhuanlan.zhihu.com/p/357476065)
 
-1. Numbered
-2. List
+[比特币的“共识”究竟是什么？(1.1版)](https://zhuanlan.zhihu.com/p/257066598)
 
-**Bold** and _Italic_ and `Code` text
+[[用心之作] 如何计算比特币的合理价格](https://zhuanlan.zhihu.com/p/344040381)
 
-[Link](url) and ![Image](src)
-```
+[我对Pi Network的Pi币价格的预估](https://zhuanlan.zhihu.com/p/285401490)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/powervip/powervip.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
