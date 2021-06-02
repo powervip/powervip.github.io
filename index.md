@@ -19,3 +19,11 @@
 
 [我对Pi Network的Pi币价格的预估](https://zhuanlan.zhihu.com/p/285401490)
 
+
+<br><br>
+### 项目推荐：
+[Pi Network](https://minepi.com/#download)
+
+免费手机挖币项目Pi Network，全球180多个国家都在挖，活跃矿工人数突破1800万了
+官网 https://minepi.com/#download
+新用户注册时填写邀请码可获得算力加成和1个Pi代币的奖励，邀请码 **powervip**
