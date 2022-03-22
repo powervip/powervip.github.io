@@ -1,6 +1,6 @@
 ## 欢迎来到powervip的博客
 
-我的学习笔记：[www.mycoin.win](www.mycoin.win) 
+我的学习笔记：[www.mycoin.win](https://www.mycoin.win) 
 
 我的知乎:[https://www.zhihu.com/people/powervip](https://www.zhihu.com/people/powervip) 
 
@@ -23,7 +23,7 @@
 [我对Pi Network的Pi币价格的预估](https://zhuanlan.zhihu.com/p/285401490)
 
 <br>
-**更多的文章请看我的学习笔记 [www.mycoin.win](www.mycoin.win) **
+**更多的文章请看我的学习笔记** [www.mycoin.win](https://www.mycoin.win)
 <br><br><br>
 ### 项目推荐：
 [Pi Network](https://minepi.com/#download)
